@@ -1,0 +1,5 @@
+D:\QECReg\QECReg\bin\QECReg.dll
+D:\QECReg\QECReg\bin\QECReg.pdb
+D:\QECReg\QECReg\obj\Debug\QECReg.dll
+D:\QECReg\QECReg\obj\Debug\QECReg.pdb
+D:\QECReg\QECReg\obj\Debug\QECReg.csprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QEC">
+  <DataContextMoniker Name="/QECDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b1a90df0-da1c-4d45-b5d2-ed774c29ca5b" absoluteBounds="3.75, 0.875, 2, 1.3805261230468751">
+      <DataClassMoniker Name="/QECDataContext/t_actcode" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e5db24ef-74ff-49de-ba1a-e7df6fde548d" absoluteBounds="3.765, 1.335, 1.9700000000000002, 0.820526123046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e3daf4b0-fb32-4511-ba1a-ed717e8d402d" absoluteBounds="3.75, 3.125, 2, 3.0997033691406251">
+      <DataClassMoniker Name="/QECDataContext/t_user" />
+      <nestedChildShapes>
+        <elementListCompartment Id="65a419ef-6189-4a67-9834-f55080fe2116" absoluteBounds="3.765, 3.585, 1.9700000000000002, 2.539703369140625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d0ae73f7-037c-454b-a53f-328c36ca5ae4" absoluteBounds="7.125, 2.125, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/QECDataContext/t_testuser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5ec125b1-c5fe-4e0f-bfc1-51de310188e3" absoluteBounds="7.14, 2.585, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
